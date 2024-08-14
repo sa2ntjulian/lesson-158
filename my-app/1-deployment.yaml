@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: sa2ntjulian/nginx:v0.1.0
+          image: sa2ntjulian/nginx:v0.1.1
           ports:
             - containerPort: 80
               name: http
