@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/sa2ntjulian/lesson-158.git
-    targetRevision: Head
+    targetRevision: HEAD
     path: environments/staging/my-app
   destination:
     server: https://kubernetes.default.svc
